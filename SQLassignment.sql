@@ -1,0 +1,1 @@
+--Display snum,sname,city and comm of all salespeople.
